@@ -1,4 +1,4 @@
-# my.zod-to-openapi
+# play.openapi
 
 ## 概要
 
